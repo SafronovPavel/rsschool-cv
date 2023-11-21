@@ -24,15 +24,17 @@ From the age of 18, I worked in sales focused on construction materials. However
 * [File Comparison](https://github.com/SafronovPavel/frontend-project-46)
 * [Burger Shop](https://safronovpavel.github.io/burgerswithoutangular/)
 
+\\
 
 ### CODE EXAMPLES
 
 **Odd or Even?**
-```
+```javascript
 function oddOrEven(array) {
   return array.reduce((acc, elem) => acc + elem, 0) % 2 === 0 ? 'even' : 'odd'
 }
 ```
+\\
 
 ### WORK EXPERIENCE
 ###### TECHNONICOL Corporation
@@ -40,6 +42,7 @@ function oddOrEven(array) {
 * 2012 - 2015 **Sales Manager**
 ###### ROSHEN Corporation
 * 2005 - 2011 **Sales Manager**
+\\
 
 ### EDUCATION
 #### University:
@@ -54,6 +57,7 @@ function oddOrEven(array) {
 #### Courses:
 + RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)
 + Hexlet Course "Frontend Developer" (in progress)
+\\
 
 ### LANGUAGES
 English: Intermediate\
