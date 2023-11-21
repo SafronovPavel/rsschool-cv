@@ -21,7 +21,7 @@ From the age of 18, I worked in sales focused on construction materials. However
 ##### My completed projects
 * [Brain Games](https://github.com/SafronovPavel/frontend-project-44)
 * [File Comparison](https://github.com/SafronovPavel/frontend-project-46)
-* [Burger Shop](https://safronovpavel.github.io/burgerswithoutangular/)
+* [Burger Shop](https://safronovpavel.github.io/burgerswithoutangular)
 ---
 ### CODE EXAMPLES
 
