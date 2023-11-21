@@ -39,6 +39,7 @@ function oddOrEven(array) {
 ###### TECHNONICOL Corporation
 * 2016 - 2023 **Sales Lead**
 * 2012 - 2015 **Sales Manager**
+
 ###### ROSHEN Corporation
 * 2005 - 2011 **Sales Manager**
 
