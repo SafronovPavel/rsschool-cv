@@ -62,5 +62,5 @@ function oddOrEven(array) {
 ---
 ### LANGUAGES
 
-English: Intermediate\
 Russian: Native
+English: Intermediate\
