@@ -7,6 +7,7 @@
 * email: 908916@gmail.com
 * discord (rs-school): Pavel (@SafronovPavel)
 * github: https://github.com/SafronovPavel
+
 ---
 ### ABOUT ME
 From the age of 18, I worked in sales focused on construction materials. However, as I always enjoyed creating something new, I decided to change my profession to development. I have extensive experience working in teams. Diligence and a willingness to learn will help me become a proficient developer.
@@ -22,6 +23,7 @@ From the age of 18, I worked in sales focused on construction materials. However
 * [Brain Games](https://github.com/SafronovPavel/frontend-project-44)
 * [File Comparison](https://github.com/SafronovPavel/frontend-project-46)
 * [Burger Shop](https://safronovpavel.github.io/burgerswithoutangular)
+
 ---
 ### CODE EXAMPLES
 
@@ -39,6 +41,7 @@ function oddOrEven(array) {
 * 2012 - 2015 **Sales Manager**
 ###### ROSHEN Corporation
 * 2005 - 2011 **Sales Manager**
+
 ---
 ### EDUCATION
 
